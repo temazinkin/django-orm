@@ -1,0 +1,12 @@
+black
+Django
+django-extensions
+isort
+jupyter
+matplotlib
+mkdocs-material
+numpy
+pandas
+notebook==6.5.4
+traitlets==5.9.0
+ipython==8.10.0
